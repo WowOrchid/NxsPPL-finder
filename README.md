@@ -5,9 +5,9 @@ Nexus is a data-aggregator, using python and various APIs to collect info in a p
 ## Installation
 Clone the Repo. 
 
-Windows, Linux or Mac are available if you have the correct dependencies, but Linux (Specifically Arch-Based) is reccomended as this is what the developer(s) use to build it.
+Windows, Linux or Mac are available if you have the correct dependencies, but Linux (Specifically Arch-Based) is recommended as this is what the developer(s) use to build it.
 
-Dear Windows users, You will NEVER have pre-builts or simple "exe" files. This is NOT a gimmick tool or party-trick, but a legitimate, proof-of-concept data observer, only to be used within legal barrier. 
+Dear Windows/Mac users, You will NEVER have pre-builts or simple "executable" files. This is NOT a gimmick tool or party-trick, but a legitimate, proof-of-concept data observer, only to be used within legal barrier. 
 ## Dependencies
 Projected dependencies:
 
@@ -31,7 +31,7 @@ Program made by UK developer(s). Compliant with Data (Use and access) Act 2025. 
 ## Devlogs!
 ★ devlog 1 ★
 
-
 hey! im orchid, and starting this project on a hot june day. im cool!!1  
 
 ★ devlog 2 ★
+
